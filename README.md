@@ -8,3 +8,5 @@ USANDO FLEXBOX E FORM, COM A FUNCIONALIDADE DE PESQUISA.
 CONFIRA O PROJETO: 
 https://mikhaelts.github.io/clone-do-Google/
 
+
+![image](https://user-images.githubusercontent.com/88353665/172874811-8eb681b3-36d2-4dfd-81f5-dd219ccb05bc.png)
